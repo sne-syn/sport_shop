@@ -48,6 +48,10 @@ section {
   opacity: 0.9;
 }
 
+.u-text-white {
+  color: var(--clr-text, #fff);
+}
+
 .primary-title {
   font-size: 4rem;
   font-size: clamp(3rem, calc(5vw + 1rem), 4.5rem);
